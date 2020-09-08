@@ -1,0 +1,47 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "db428d28a9d59c205b9142e3e1451a83",
+    "packages": [
+        {
+            "name": "schema31/php-gcloud-monitoring-sdk",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Schema31/php-gcloud-monitoring-sdk.git",
+                "reference": "e89cdee43a71da96d2022f3d19c8e97124c7ef1a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Schema31/php-gcloud-monitoring-sdk/zipball/e89cdee43a71da96d2022f3d19c8e97124c7ef1a",
+                "reference": "e89cdee43a71da96d2022f3d19c8e97124c7ef1a",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Schema31\\GCloudMonitoringSDK\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Antonio Turdo",
+                    "email": "aturdo@schema31.it"
+                }
+            ],
+            "time": "2020-08-11T14:31:34+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
